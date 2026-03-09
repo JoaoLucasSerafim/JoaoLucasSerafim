@@ -1,6 +1,22 @@
 <h1 align="center">
   <span style="color:#2ecc71">Olá :wave: sou João Serafim</span>
 </h1>
+<p align="left">
+    <a href="https://github.com/JoaoLucasSerafim?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Clara-ramoss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/JoaoLucasSerafim?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Clara-ramoss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ## Aqui está um pouco sobre mim:
 <h4>Tenho 15 anos❗<br>
@@ -18,6 +34,7 @@ Sonho em participar de competições de robótica da FIRST, tais como FLL e FTC�
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.lucas.serafim@proton.me)
 </div>
+
 
 # Tecnologias que utilizo
 
