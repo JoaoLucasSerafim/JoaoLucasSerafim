@@ -21,9 +21,9 @@
 ## Aqui está um pouco sobre mim:
 <h3>Tenho 15 anos❗<br>
 Desenvolvimento Web Backend em python🐍<br>
-Analista de dados📊<br>
+Curto automações e análise de dados📊<br>
 Já fiz parte de competições de robótica e programação como OBR e OBI🎖️<br>
-Sonho em participar de competições de robótica da FIRST, tais como FLL e FTC💭
+Sonho em participar novamente de competições como a OBR, e futuramente participar da First Tech Chalenge💭
 </h3>
 
 <p align="right">Contato:</p>
