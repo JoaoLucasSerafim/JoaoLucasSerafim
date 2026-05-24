@@ -40,7 +40,7 @@ Sonho em participar novamente de competições como a OBR, e futuramente partici
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,java,js,html,css,vscode,neovim,obsidian,django,git,github,bash,azure,sqlite,raspberrypi,arduino,opencv&perline=6" />
+    <img src="https://skillicons.dev/icons?i=linux,py,cpp,js,html,css,vscode,neovim,obsidian,django,git,github,bash,azure,sqlite,raspberrypi,arduino,opencv&perline=6" />
   </a>
 </p>
 <!--
