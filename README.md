@@ -21,9 +21,11 @@
 ## Aqui está um pouco sobre mim:
 <h3>Tenho 15 anos❗<br>
 Desenvolvimento Web Backend em python🐍<br>
-Curto automações e análise de dados📊<br>
+Sistemas embarcados e Visão Computacional com C++ e Python<br>
 Já fiz parte de competições de robótica e programação como OBR e OBI🎖️<br>
-Sonho em participar novamente de competições como a OBR, e futuramente participar da First Tech Chalenge💭
+
+Atual competidor da OBR pela equipe [DOOMSCROLLERS](https://github.com/DoomScrollers-OBR)<br>
+Sonho em participar da First Tech Chalenge💭
 </h3>
 
 <p align="right">Contato:</p>
